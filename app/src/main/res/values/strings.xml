@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grid Selector</string>
+
+    <!-- these are here just to eliminate warnings about ImageViews not having contentDescriptions -->
+    <string name="main_image">Main image view</string>
+    <string name="checkbox_image">Checkbox image view</string>
+</resources>

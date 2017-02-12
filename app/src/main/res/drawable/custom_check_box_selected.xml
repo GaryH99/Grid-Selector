@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="20dp"
+    android:width="20dp"
+
+    android:viewportWidth="400"
+    android:viewportHeight="400">
+
+    <!-- the outside box -->
+    <path android:pathData="M 340 30 H 62 c -20 0 -35 15 -35 35
+            v271 c0 20 15 35 35 35
+            h275 c20 0 35 -15 35 -35
+            v -271 c0 -20 -15 -35 -35  -35 "
+        android:fillColor="#FDD835"  android:strokeColor="#000000" android:strokeWidth="20" />
+
+    <!-- the check mark -->
+    <path android:pathData="M 140 320 l -100 -100 25 -30
+            l 75 75 l 190 -190
+            l 25 30 l -190 190"
+        android:fillColor="#000000"  android:strokeColor="#ffffff" android:strokeWidth="2" />
+</vector>
